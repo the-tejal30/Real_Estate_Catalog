@@ -1,0 +1,93 @@
+
+.sign-up-parent {
+  font-family: 'Source Sans Pro', sans-serif;
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-color: #E1F9F4;
+}
+
+.sign-up-form-container {
+  padding: 3rem;
+  left: 0px;
+  top: 0px;
+  border-radius: 10px;
+  background-color: white;
+  position: relative;
+}
+
+center {
+  margin-right: 1rem;
+}
+
+.index-logo {
+  margin-bottom: 10px;
+}
+
+.sign-up-form-container h1 {
+  margin-left: 1vw;
+}
+
+.sign-up-form-container p {
+  margin-left: 1vw;
+}
+
+.sign-up-form-container input {
+  display: block;
+  height: 5vh;
+  width: 24vw;
+  margin-left: 0vw;
+  border-radius: 3px;
+  border: 1px solid #e2e2e2;
+  margin-top: 0vh;
+}
+
+.sign-up-form-container button {
+    font-size: medium;
+  display: block;
+  height: 6vh;
+  width: 12.9vw;
+  margin-left: -3px;
+  border-radius: 3px;
+  border:0px white;
+  margin-top: 0vh;
+  cursor: pointer;
+  background-color: #4c57b6;
+  color: white;
+}
+
+.sign-up-form-container .password-input-container {
+  position: relative;
+  margin: 0 auto;
+  margin-bottom: 2.5rem;
+}
+
+.sign-up-form-container .password-input-container input {
+  width: calc(100% - 30px); 
+  padding-right: 30px; 
+}
+
+.sign-up-form-container .password-icon {
+  position: absolute;
+  top: 50%;
+  right: 42px;
+  transform: translateY(-50%);
+  cursor: pointer;
+  z-index: 1;
+}
+
+.sign-up-form-container input {
+  width: calc(100% - 30px);
+}
+
+.sign-up-form-container .password-icon {
+  display: block;
+  margin-right: -26px;
+}
+
+.para {
+  margin-left: 2.5rem;
+}

@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aa716987.css",
+    "main.js": "/static/js/main.ecdbeda8.js",
+    "index.html": "/index.html",
+    "static/media/photo_camera.JPEG": "/static/media/photo_camera.627e2fc6d2a40c17b081.JPEG",
+    "main.aa716987.css.map": "/static/css/main.aa716987.css.map",
+    "main.ecdbeda8.js.map": "/static/js/main.ecdbeda8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa716987.css",
+    "static/js/main.ecdbeda8.js"
+  ]
+}
