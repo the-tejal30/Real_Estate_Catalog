@@ -24,11 +24,9 @@ To get started with this project, follow these steps:
 
 1. Clone this repository to your local machine.
 
-2. Set up a database to store property information. You can configure the database connection in `config.py`.
-
 3. Install the required dependencies using `pip install -r requirements.txt`.
 
-4. Run the application using `python app.py`.
+4. Run the application using `npm run start`.
 
 5. Access the web application at `http://localhost:5000` in your web browser.
 
